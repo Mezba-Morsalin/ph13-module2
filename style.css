@@ -1,0 +1,56 @@
+#react {
+    background-color: lightblue;
+    padding: 10px;
+    border: 2px solid blue;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+#javaScript {
+    background-color: lightgreen;
+    padding: 10px;
+    border: 2px solid green;
+    margin: 30px;
+    padding: 10px;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+#python {
+    background-color: lightyellow;
+    padding: 10px;
+    border: 2px solid orange;
+    margin: 30px;
+    padding: 10px;
+}
+.inline {
+    list-style: none;
+    display: inline;
+}
+#block {
+    display: block;
+    color: red;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 50px;
+    height: 100px;
+}
+.image {
+    height: 1000px;
+    background-image: url(./Images/SAVE_20250117_203616.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.image h1 {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+    text-shadow: 2px 2px 5px black;
+}
+.image p {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px black;
+}
